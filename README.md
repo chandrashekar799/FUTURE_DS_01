@@ -82,3 +82,7 @@ Interactive Filters
 Category Slicer
 
 Rating Slicer
+
+
+<img width="1281" height="726" alt="task01" src="https://github.com/user-attachments/assets/707bfa6c-5dfb-4ca2-b2b3-6ee1feb9d97b" />
+
